@@ -1,12 +1,12 @@
-# Was ihr braucht:
+# Was ihr benötigt:
 - NodeJS
-- Aoi.js npm package (version 1.0.6)
+- Aoi.js npm package (version 4.4.4)
 - ffmpeg
 
 # Wie man es benutzt:
-- benutzt ```npm i``` und dann wartet ab bis alle installiert ist
-- stellt euren token in die config.json rein
-- und dan könnt ihr euren bot schon starten mit ```node .```
+- Zu erst installiert man alle benötigten packete mit ```npm i```
+- Danach stellt ihr euren token in die config.json rein.
+- Wen alles getahn ist, könnt ihr nun den bot auch schon mit ```node .``` starten.
 
 **Hinweis:**
 Schaut ein tutorial auf YouTube wie man FFmpeg installiert!
